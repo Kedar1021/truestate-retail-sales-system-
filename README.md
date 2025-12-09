@@ -3,8 +3,9 @@
 ![Status](https://img.shields.io/badge/Status-Deployed-success)
 ![MERN](https://img.shields.io/badge/Stack-MERN-blue)
 ![MongoDB](https://img.shields.io/badge/DB-MongoDB_Atlas-green)
+> **Last Updated:** Dec 9, 2025
 
-A comprehensive full-stack MERN application for managing and analyzing retail sales data. This system handles large datasets (performance tested with 220,000+ records) and provides real-time analytics, dynamic filtering, and a responsive dashboard.
+A comprehensive full-stack MERN application for managing and analyzing retail sales data. This system handles large datasets (performance tested with 528,000+ records) and provides real-time analytics, dynamic filtering, and a responsive dashboard.
 
 ## 🚀 Live Demo
 
@@ -30,7 +31,7 @@ A comprehensive full-stack MERN application for managing and analyzing retail sa
 
 - **Frontend:** React 18, Vite, Tailwind CSS, Axios, Context API
 - **Backend:** Node.js, Express.js, Mongoose
-- **Database:** MongoDB Atlas (Free Tier) with 220,000+ records
+- **Database:** MongoDB Atlas (Free Tier) with 528,000+ records
 - **Deployment:** Vercel (Frontend), Render (Backend)
 
 ---
@@ -109,4 +110,4 @@ npm run dev
 - **Database:** Hosted on MongoDB Atlas.
 - **Indexing:** `transaction_id`, `customer_name`, and `phone_number` are indexed for fast searching.
 - **Pagination:** Server-side pagination limits data transfer overhead.
-- **Data Volume:** Successfully imported and tested with **220,000 records**, utilizing optimized queries to stay within free-tier limits while maximizing data volume.
+- **Data Volume:** Successfully imported and tested with **528,000+ records**, utilizing optimized queries to stay within free-tier limits while maximizing data volume.
