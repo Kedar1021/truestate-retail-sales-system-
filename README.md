@@ -9,7 +9,7 @@ A comprehensive full-stack MERN application for managing and analyzing retail sa
 
 ## 🚀 Live Demo
 
-- **Frontend (Vercel):** [https://truestate-retail-sales-system-pearl.vercel.app](https://truestate-retail-sales-system-pearl.vercel.app)
+- **Frontend (Vercel):** [https://truestate-retail-sales-system-inky.vercel.app/](https://truestate-retail-sales-system-inky.vercel.app/)
 - **Backend (Render):** [https://truestate-retail-sales-system-52gb.onrender.com/api/health](https://truestate-retail-sales-system-52gb.onrender.com/api/health)
 - **GitHub Repository:** [https://github.com/Kedar1021/truestate-retail-sales-system-](https://github.com/Kedar1021/truestate-retail-sales-system-)
 
